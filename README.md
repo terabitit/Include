@@ -1,27 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Images Table</title>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        td {
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: center;
-        }
-        img {
-            width: 150px; /* Set fixed width */
-            height: 150px; /* Set fixed height */
-            object-fit: cover; /* Ensure images maintain aspect ratio */
-        }
-    </style>
-</head>
-<body>
+
 
 <table>
     <tr>
@@ -33,5 +10,4 @@
     </tr>
 </table>
 
-</body>
-</html>
+
